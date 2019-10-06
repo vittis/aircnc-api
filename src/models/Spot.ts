@@ -11,4 +11,4 @@ const SpotSchema = new mongoose.Schema({
     },
 });
 
-export default mongoose.model('User', SpotSchema);
+export default mongoose.model('Spot', SpotSchema);

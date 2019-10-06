@@ -19,5 +19,6 @@ module.exports = {
     sourceType: 'module'
   },
   rules: {
+      "@typescript-eslint/camelcase": 0
   }
 }
